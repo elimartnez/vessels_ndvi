@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+backup/
+data/
+data-eli/
+data-modis/
+loetschental/
+fig/
